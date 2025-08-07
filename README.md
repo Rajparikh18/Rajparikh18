@@ -66,7 +66,6 @@ A full-stack healthcare communication platform with real-time chat (WebSockets),
 
 ![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajparikh18&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajparikh18&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rajparikh18&theme=tokyonight&hide_border=false)
 
 ---
 
@@ -81,7 +80,7 @@ A full-stack healthcare communication platform with real-time chat (WebSockets),
 ## 📬 Let's Connect!
 
 - 📧 [parikhraj85@gmail.com](mailto:parikhraj85@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/rajparikh18)
+- 💼 [LinkedIn](https://linkedin.com/in/raj-parikh18)
 - 💻 [GitHub](https://github.com/Rajparikh18)
 
 ---
